@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avinash Aganihotri
 - 👀 I’m interested in learning,exploring and practically presenting 
-- 🌱 I’m currently learning web development along with Python programming 
+- 🌱 I’m currently learning web development ,data structures along with c++ programming 
 - ⚡ Fun fact:I'm into poetry.
 
 <!---
